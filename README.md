@@ -6,9 +6,10 @@
 
 <div align="center">
 
-### Hola, soy Rosa
+### Hola, soy Rosa 
 
-**Analista QA** enfocada en testing y automatización**
+**Analista QA enfocada en testing manual y automatización**  
+
 *Playwright · Postman · SQL*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C7E8?style=for-the-badge&logo=linkedin&logoColor=4a4a4a)](https://www.linkedin.com/in/rosafg/)
